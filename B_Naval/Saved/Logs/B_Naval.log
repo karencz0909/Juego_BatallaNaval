@@ -1526,3 +1526,8 @@ Script Stack (0 frames) :
 [2024.05.28-05.53.46:872][633]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Tablero/BP_GameBoard.BP_GameBoard_C
 [2024.05.28-05.53.46:985][633]LogActorFactory: Actor Factory spawned Blueprint /Game/Tablero/BP_GameBoard.BP_GameBoard as actor: BP_GameBoard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameBoard_C_UAID_BCF4D4F344D2BDF901_2020402369
 [2024.05.28-05.53.47:047][633]LogActorFactory: Actor Factory spawned Blueprint /Game/Tablero/BP_GameBoard.BP_GameBoard as actor: BP_GameBoard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_GameBoard_C_UAID_BCF4D4F344D2BDF901_2020402369
+[2024.05.28-05.57.02:839][534]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2024.05.28-05.57.02:941][534]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0O/6KG502T5WFPY2UADPQ64JO_Auto2
+[2024.05.28-05.57.02:942][534]LogSavePackage: Moving '../../../../../../Users/jdpas/OneDrive/Documentos/GitHub/Juego_batallaNaval/B_Naval/Saved/6KG502T5WFPY2UADPQ64JO_Auto209B3E1D2492B8499AF845AB12FA86B02.tmp' to '../../../../../../Users/jdpas/OneDrive/Documentos/GitHub/Juego_batallaNaval/B_Naval/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0O/6KG502T5WFPY2UADPQ64JO_Auto2.uasset'
+[2024.05.28-05.57.02:967][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.460
+[2024.05.28-05.57.02:967][534]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.460
